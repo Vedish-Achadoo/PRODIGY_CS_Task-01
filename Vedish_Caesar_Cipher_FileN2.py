@@ -13,3 +13,9 @@ def caesar(text, shift, alphabets):
 
 plain_text = "This file is for @Prodigy_InfoTech!"
 print(caesar(plain_text, 9, [string.ascii_lowercase, string.ascii_uppercase, string.punctuation]))    
+
+#This is the First task assigned by Prodigy InfoTech to Vedish. Task has been completed. 
+#In order to encrypt, just edit the following:  "This file is for @Prodigy_InfoTech!"
+#In order to decrypt, just replace the following: 9 with -9 . 
+#For Example: print(caesar(plain_text, 9, [string.ascii_lowercase, string.ascii_uppercase, string.punctuation])) 
+#becomes print(caesar(plain_text, -9, [string.ascii_lowercase, string.ascii_uppercase, string.punctuation]))
